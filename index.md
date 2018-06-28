@@ -10,5 +10,4 @@ Veuillez citer ce site comme suivant: Une administration vue par en bas, URL: ht
 
 Carte des péages et bacs
 
-
-<iframe src="https://yandex.ru/map-widget/v1/-/CBuqvWVZ8A" width="560" height="400" frameborder="1" allowfullscreen="true"></iframe>
+https://yandex.ru/maps/-/CBuqv8g5DD
